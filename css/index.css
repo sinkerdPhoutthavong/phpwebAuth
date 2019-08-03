@@ -1,0 +1,14 @@
+body {
+    font-family: phetsarath OT;
+    background: #e9b407;
+    padding: 30px;
+}
+
+.container {
+    padding: 30px;
+    background: white;
+}
+
+h1 {
+    background: #e9b407;
+}

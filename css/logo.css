@@ -1,0 +1,20 @@
+.logo {
+    width: 80%;
+    height: 80%;
+    position: fixed;
+    top: 5%;
+    left: 7%;
+    right: 7%;
+    bottom: 5%;
+}
+
+.header {
+    overflow: hidden;
+    background-color: #f1f1f1;
+    padding: 20px 10px;
+}
+
+.logo {
+    font-size: 25px;
+    font-weight: bold;
+}

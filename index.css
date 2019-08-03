@@ -1,0 +1,89 @@
+body {
+    font-family: phetsarath OT;
+    height: 810px;
+    /* background-color: red; */
+    /* For browsers that do not support gradients */
+    background-image: linear-gradient(to bottom, #f4511e, #ffc107);
+    /* Standard syntax (must be last) */
+}
+
+/* 
+.container {
+    background-color: white;
+} */
+
+.exactCenter {
+    width: 86%;
+    height: 90%;
+    position: fixed;
+    background-color: rgb(255, 255, 255);
+    border-bottom-left-radius: 5%;
+    border-top-right-radius: 5%;
+    top: 5%;
+    left: 7%;
+    right: 7%;
+    bottom: 5%;
+}
+
+.original {
+    width: 86%;
+    height: 80%;
+    position: fixed;
+    background-color: rgb(255, 255, 255);
+    border-bottom-left-radius: 5%;
+    border-top-right-radius: 5%;
+    top: 16%;
+    left: 7%;
+    right: 7%;
+    bottom: 5%;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: #1976d2;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    margin-bottom: 30px;
+    width: 20%;
+    height: 35%;
+}
+
+.button {
+    background-color: #f4511e;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: phetsarath OT;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button4 {
+    border-radius: 12px;
+}
+
+.buttonBackground {
+    border-radius: 25px;
+}
+
+.h1css {
+    font-size: 28px;
+
+}
